@@ -1,0 +1,33 @@
+{
+  "author": "Raihan Mahmud",
+  "classifications": [],
+  "description": "An ASP.NET Core MVC Solution Template that is built with Repository Pattern",
+  "name": "Repository Pattern",
+  "defaultName": "RepositoryPattern",
+  "identity": "RepositoryPattern.CSharp",
+  "groupIdentity": "RepositoryPattern",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "shortName": "RepositoryPattern",
+  "sourceName": "RepositoryPattern",
+  "guids": [],
+  "primaryOutputs": [
+    {
+      "path": "RepositoryPattern.Web\\RepositoryPattern.Web.csproj"
+    },
+    {
+      "path": "RepositoryPattern.Domain\\RepositoryPattern.Domain.csproj"
+    },
+    {
+      "path": "RepositoryPattern.Infrastructure.Service\\RepositoryPattern.Infrastructure.Service.csproj"
+    },
+    {
+      "path": "RepositoryPattern.Infrastructure.Persistence\\RepositoryPattern.Infrastructure.Persistence.csproj"
+    },
+    {
+      "path": "RepositoryPattern.Application\\RepositoryPattern.Application.csproj"
+    }
+  ]
+}
